@@ -7,7 +7,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GauravKavat&theme=dark&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
