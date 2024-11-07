@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on all kinds of projects for experience.<br>🌱 I’m currently learning React and Next
+🔭 I’m currently working on fine tuning my skills on WebDev<br>👯 I’m looking to collaborate on all kinds of projects for experience.<br>🌱 I’m currently learning React and Next
 
 
 # 💻 Tech Stack:
